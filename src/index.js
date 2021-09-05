@@ -5,7 +5,7 @@ import { UnityContext } from "react-unity-webgl";
 
 const unityContext = new UnityContext({
   loaderUrl: "build/ZombieLandsV2-5.loader.js",
-  dataUrl: "build/myunitZombieLandsV2-5yapp.data",
+  dataUrl: "build/ZombieLandsV2-5.data",
   frameworkUrl: "build/ZombieLandsV2-5.framework.js",
   codeUrl: "build/ZombieLandsV2-5.wasm",
 });
